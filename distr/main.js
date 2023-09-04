@@ -1,3 +1,4 @@
+#!usr/bin/env node
 import inquirer from "inquirer";
 import { add, divide, multip, pow, sub } from "./operators.js";
 import chalk from "chalk";
